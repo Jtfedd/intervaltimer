@@ -2,7 +2,7 @@ serve:
 	webdev serve --hostname="0.0.0.0"
 
 clean:
-	rm -rf ./.dart_tool ./.packages
+	rm -rf ./.dart_tool ./.packages ./build
 	rm pubspec.lock
 
 init:
