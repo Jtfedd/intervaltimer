@@ -1,2 +1,4 @@
 # Interval Timer
-Timer that can run custom intervals repeatedly. Check back soon for more info.
+Timer that can run custom intervals repeatedly.
+
+[Interval Timer](https://jtfedd.github.io/intervaltimer)
