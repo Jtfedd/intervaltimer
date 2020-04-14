@@ -7,3 +7,6 @@ clean:
 
 init:
 	pub get
+
+build:
+	webdev build
