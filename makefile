@@ -10,3 +10,7 @@ init:
 
 build:
 	webdev build
+
+release:
+	peanut
+	git push origin --set-upstream gh-pages
